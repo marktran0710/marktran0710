@@ -10,7 +10,14 @@ I'm a passionate developer with 2 years of experience in multiple programming la
 
 ### Skills
 
-![Go](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Gin](https://img.shields.io/badge/-Gin-00ADD8?logo=go&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![NATS](https://img.shields.io/badge/-NATS-22C3E6?logo=nats&logoColor=white) ![CI/CD](https://img.shields.io/badge/-CI/CD-007EC6?logo=githubactions&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+#### Backend
+- ![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Gin](https://img.shields.io/badge/-Gin-00ADD8?logo=go&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
+
+#### Frontend
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+
+#### Infrastructure
+- ![NATS](https://img.shields.io/badge/-NATS-22C3E6?logo=nats&logoColor=white) ![CI/CD](https://img.shields.io/badge/-CI/CD-007EC6?logo=githubactions&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![AWS IAM](https://img.shields.io/badge/-IAM-232F3E?logo=amazon-aws&logoColor=white) ![EC2](https://img.shields.io/badge/-EC2-FF9900?logo=amazon-aws&logoColor=white) ![EFS](https://img.shields.io/badge/-EFS-FF9900?logo=amazon-aws&logoColor=white) ![S3](https://img.shields.io/badge/-S3-569A31?logo=amazon-s3&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
 ## Experience
 
