@@ -6,7 +6,7 @@
 
 ### About Me
 
-I'm a passionate developer with 2 years of experience in multiple programming languages and technologies. I love learning new things and exploring different fields in software development.
+I'm a passionate developer in multiple programming languages and technologies. I love learning new things and exploring different fields in software development.
 
 ### Skills
 
